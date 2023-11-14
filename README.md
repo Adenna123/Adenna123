@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adenna123" alt="adenna123" /></a> </p>
 
+- 🔭 I’m currently working on **c++**
+
 - 🌱 I’m currently learning **c++,c#**
+
+- 📄 Know about my experiences [https://egx9daq4q4y.exactdn.com/wp-content/uploads/2021/02/a-hacker.jpg?strip=all&lossy=1&w=900&ssl=1](https://egx9daq4q4y.exactdn.com/wp-content/uploads/2021/02/a-hacker.jpg?strip=all&lossy=1&w=900&ssl=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
